@@ -1,0 +1,16 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore build output
+build/
+
+# Ignore NetBeans project files
+nbproject/private/
+build.xml
+nbbuild/
+dist/
+nbdist/
+
+# Ignore NetBeans metadata
+nbactions.xml
+nb-configuration.xml

@@ -1,0 +1,61 @@
+                                               Terms and Conditions
+					    
+
+
+1. Definitions:
+a. "Client" refers to EnvioBin Network.
+b. "Waste Management System" refers to the comprehensive waste management solution to be developed and implemented by the Service Provider.
+
+2. Project Scope:
+a. The scope of the waste management system project is outlined in the project proposal, including specifications, functionalities, and deliverables.
+
+3. Project Duration:
+a. The project is expected to commence on [start date], subject to potential adjustments as agreed upon by both parties.
+
+4. Responsibilities:
+a. The Client is responsible for providing accurate and timely data, access to facilities, and necessary permits.
+b. The Service Provider is responsible for delivering the Waste Management System according to the agreed specifications.
+
+5. Deliverables:
+a. The deliverables include [list specific items such as software, documentation, reports, etc.].
+b. Delivery milestones and deadlines are detailed in the project schedule.
+
+6. Payment Terms:
+a. Payment for services rendered shall be [describe payment terms – lump sum, milestone-based, etc.].
+b. Invoices will be submitted [monthly/upon completion of milestones] and are payable within [number] days of receipt.
+
+7. Change Requests:
+a. Changes to the project scope must be submitted in writing and approved by both parties.
+b. Additional work resulting from approved changes may incur additional charges.
+
+8. Confidentiality:
+a. Both parties agree to treat all project-related information as confidential and not disclose it to third parties without prior written consent.
+
+9. Intellectual Property:
+a. The Service Provider retains ownership of intellectual property developed during the project, including software code and documentation.
+
+10. Warranty and Support:
+a. The Service Provider warrants that the Waste Management System will perform according to specifications for a period of [warranty period].
+b. Post-implementation support and maintenance terms are detailed in a separate agreement.
+
+11. Termination:
+a. Either party may terminate the agreement with written notice if the other party breaches a material term and fails to remedy it within [number] days.
+
+12. Force Majeure:
+a. Neither party shall be liable for delays or failure to perform due to causes beyond their reasonable control.
+
+13. Governing Law:
+a. This agreement is governed by the laws of [jurisdiction], and any disputes shall be resolved through arbitration in accordance with the rules of [arbitration organization].
+
+14. Insurance:
+a. The Service Provider shall maintain appropriate insurance coverage related to the project.
+
+15. Health and Safety:
+a. Both parties agree to adhere to health and safety regulations during project implementation.
+
+16. Environmental Compliance:
+a. The Waste Management System shall comply with all applicable environmental laws and regulations.
+
+17. Miscellaneous:
+a. Any amendments or modifications to this agreement must be in writing and signed by both parties.
+b. This agreement constitutes the entire understanding between the parties and supersedes all prior negotiations and agreements.

@@ -1,11 +1,10 @@
-# Cyber Crime Management System
-A Cyber Crime Management System is a comprehensive platform designed to combat and manage cybercrime activities. It integrates various processes to prevent, and respond to cyber threats.
+# Waste Management System
+A Waste Management System is a comprehensive system designed to efficiently manage, track, and reduce waste.
 ![Logo of the System.](logo.jpg)
 ## Features
-- Add Cases: Users can add cases by providing necessary details.
-- Delete Cases: Users can delete cases using various searching methods.
-- View Cases: Users can view details of cases using various searching methods.
-- Edit Cases: Users can edit cases using various searching methods.
+- Types of wastes: The types of wastes that are collected and their corrosponding processing fees.
+- Waste Collection: Users can fill in the details and book a slot for their request.
+- Payment: Users can choose UPI Payment/Manual Payment as per their choice. 
 
 ## Getting Started
 

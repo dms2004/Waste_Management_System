@@ -15,7 +15,7 @@ A Waste Management System is a comprehensive system designed to efficiently mana
 ### Installation
 1. Clone the repository:
 
-git clone https://github.com/<your username>/Cyber-Crime-Management-System.git
+git clone https://github.com/<your username>/Waste-Management-System.git
 
 2. Import the project into your preferred IDE.
 3. Set up the MySQL database and configure the database connection in the code.

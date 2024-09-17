@@ -168,6 +168,7 @@ public class Home extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         addWindowListener(new java.awt.event.WindowAdapter() {
+            @Override
             public void windowOpened(java.awt.event.WindowEvent evt) {
                 WindowOpen(evt);
             }
